@@ -1,2 +1,5 @@
 # helloword
 testing skills
+
+
+i'm 22 and from Recife, Brazil. I'm studying geography at college and realized that its easy to integrate human sciences with tecnology using the geographyc tools and softwares, and data programming, to explain general estatistics of local and global geographys with spreadsheets, graphycs and texts. By the way, this integration can't happen, in my mind, if its not integrated with a good auto explanatory structure of research, even the vectorized maps on the softwares like arcgis and qgis (the ones that im studying and initializing my skills), and the codes and texts that are going to create a good data report about some subject. Basically because of the inumeral possibilities that can be reach in this area, i decided to study and learn how to programming codes and use tecnology to improve my skills, my way to solve problems, and try to help make the world around me more dynamic, that people can live learning and knowing better, spread useful and good information.
